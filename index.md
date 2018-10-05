@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>杉杉生日快乐！</title>
+
 ## 杉杉生日快乐！
 
 这是我记不得的第几个生日了
