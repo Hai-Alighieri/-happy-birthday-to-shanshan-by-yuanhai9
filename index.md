@@ -1,6 +1,6 @@
 ## 杉杉生日快乐！
 
-You can use the [editor on GitHub](https://github.com/Hai-Alighieri/-happy-birthday-to-shanshan-by-yuanhai9/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是我记不得的第几个生日了
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
